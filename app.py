@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # --------------------------------------------------------------------------------
-# Importaciones de tus módulos
+# Importaciones de tus módulos  pene
 # --------------------------------------------------------------------------------
 from analisis_hr import (
     load_hr_data, 
